@@ -1,6 +1,7 @@
 <section id="test">
 
-# This Map Should Deal with a Historical Topic You Care About 
+# The People's Republic of China in the Korean War: Why?
+
 
 Your first task will be to locate some real places.  You can get the precise locations at various services, e.g [latlong.net](http://www.latlong.net/).
 
