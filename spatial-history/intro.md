@@ -1,12 +1,8 @@
 <section id="test">
 
-# This Map Should Deal with a Historical Topic You Care About 
+# China’s Involvement in the Korean War, Justified? 
+## More so than America’s
 
-Your first task will be to locate some real places.  You can get the precise locations at various services, e.g [latlong.net](http://www.latlong.net/).
-
-Then add those places to the marker array in [../js/maps-setup.js](../js/maps-setup.js) (see instructions there).
-
-It makes sense to put an introductory paragraph here, before the map and buttons. To change the colors, modify the defaults in [style.css](../css/map-styles.css).
-
+Following the resolution of the Second World War, the United States of America and the Soviet Union were left head to head as the world's superpowers, both touting opposing ideologies. How does China fit into what has historically been perceived as a U.S.-Soviet proxy war? I argue that Mao Zedong came to be involved not through an attempted perpetuation of Pan-Asian Communism (although this may have been an underlying factor), but through necessity. 
 
 </section>
