@@ -1429,18 +1429,10 @@ let vanishingPath = L.polyline([[37.47485808497102,127.001953125],
                                     windowContent: `<h3>Mao's Fear</h3><p>Mao feared U.S. invasion similar to Japan's through Manchuria, should the U.S. come to occupy North Korea </p>`})
 
 
-let tunnelPath = L.polyline([[26.941659545381516,119.17968749999999],
-                                [25.48295117535531,118.7841796875],[
-                                    23.36242859340884, 120.498046875],[
-                                    24.126701958681668, 117.20214843749999],
-                                    [23.36242859340884, 115.7080078125]], {
-                                    color: gryfCol,
-                                    weight: 6,
-                                    title: 'Return of the KMT',
-                                    windowContent: `<h3>Mao Fear #2</h3><p>If the U.S. chose to, they could deploy KMT forces to Southern China </p>`})
 
 
-let paths = processManualLayers([vanishingPath, tunnelPath], {description: 'Paths'})
+
+let paths = processManualLayers([vanishingPath], {description: 'Route'})
 
 
 ////////////////////////////////////////////////
