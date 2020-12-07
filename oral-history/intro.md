@@ -1,3 +1,4 @@
-# intro here
+# Canada’s Colonial Continuation: The Myth of Multiculturalism 
+## ATTENTION: Audio clip contains traumatic media; discretion is advised. 
 
-Just a few simple things here please. 
+Canada has long held the contention it is a multicultural haven where peoples of all ethnicity and background are welcomed equally, yet this obviously fails in light of the mistreatment of indigenous. I argue the government has not only failed to protect the vulnerable native communities, but actively represses indigenous peoples favouring and maintaining colonial resource extraction. The first case I will be examining is the failure to provide basic rights specific to healthcare services, followed by a comparison between the Wet'suwet'en pipeline protests and Mi'kmaq fishery riots and lastly the sexual exploitation of indigenous women as commodities. The indictment is a failure at the federal level, and I now ask you to begin the audio clip.
